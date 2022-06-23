@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125589768988",
+    "project_id": "chatwithjay-d9cbf",
+    "storage_bucket": "chatwithjay-d9cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125589768988:android:c74f5e7bf8d408eb8108d9",
+        "android_client_info": {
+          "package_name": "com.example.chat_with_jay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125589768988-pev57m5b51vjbaoht6bqiqqumaks3itd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQhZdHGtm-39uC-ht3BYvDN4DfSsJ--U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125589768988-pev57m5b51vjbaoht6bqiqqumaks3itd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
